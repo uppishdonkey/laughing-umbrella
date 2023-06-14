@@ -9,3 +9,6 @@ When a time block is clicked, then you can enter an event. When the save button 
 ## Screenshots
 ![Alt text](<2023-06-13 (7).png>)
 ![Alt text](<2023-06-13 (8).png>)
+
+## Link to Deployed Website
+https://uppishdonkey.github.io/laughing-umbrella/
